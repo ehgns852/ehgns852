@@ -13,7 +13,6 @@
     <a href="mailto:ehgns5668@naver.com"><img src="https://img.shields.io/badge/-ehgns5668@naver.com-black?style=square&logo=minutemailer&link=ehgns5668@naver.com" style="height: auto; margin-left: 10px; margin-right: 10px;"></a>
     <a href="mailto:ehgns5669@gmail.com"><img src="https://img.shields.io/badge/-ehgns5669@gmail.com-black?style=square&logo=gmail&link=ehgns5669@gmail.com" style="height: auto; margin-left: 10px; margin-right: 10px;"></a>
 	<br>
-	 <a href="https://velog.io/@do-hoon"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"></a>
 </div>
 <br>
 <br>
